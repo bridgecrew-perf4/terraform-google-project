@@ -1,4 +1,11 @@
+# Dev
 .DS_STORE
 ./idea
 ./vscode
+.env
+*.env
+
+# Terraform
 .terraform/
+*.tfstate*
+*.terraform*
